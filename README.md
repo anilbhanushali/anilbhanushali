@@ -3,7 +3,7 @@
 **Full-Stack Engineer** with over 16 years of building scalable web apps—think eCommerce platforms, SaaS tools, and employee growth solutions. I love crafting clean code and solving tough problems with simple ideas.
 
 ## What I Do
-- **Currently**: Principal Engineer at [Foundation Commerce](https://www.getfoundation.com/about-foundation-commerce-inc), building a B2B eCommerce platform with Ruby on Rails, Hotwire ( Turbo & Stimulus) React, Node.js, JavaScript.
+- **Currently**: Principal Engineer at [Foundation Commerce](https://www.getfoundation.com/about-foundation-commerce-inc), building a B2B eCommerce platform with Ruby on Rails, Hotwire ( Turbo & Stimulus) React, Node.js, Javascript.
 - **Past Gigs**: 
   - Led teams at [Greyamp Consulting](https://greyamp.com/) to create GALE (goal-tracking tool) and an engagement platform
   - Built price engines at [fabric](https://fabric.inc/) using serverless tech.
