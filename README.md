@@ -4,7 +4,7 @@ with 17+ years of experience building and evolving software across eCommerce, Sa
 I enjoy working across system architecture, backend engineering, and platform design — turning complex problems into practical, maintainable solutions. I value simplicity, sound engineering practices, and building things that stand the test of time.
 
 ## Selected Experience
-- Foundation Commerce — Worked on architecture and engineering of a B2B eCommerce platform.
+- Foundation Commerce — Built a B2B eCommerce platform from the ground up.
 - Greyamp Consulting — Led engineering initiatives for goal-tracking and employee engagement platforms.
 - fabric — Built pricing engines using cloud-native and serverless technologies.
 - Better Life — Founder - a technology services venture, delivering software solutions, CTO-as-a-Service, and supporting a client through a $10M fundraise.
